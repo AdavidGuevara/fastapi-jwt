@@ -1,1 +1,1 @@
-# JSON Web Token , REST API con FastAPI.
+# JSON Web Token and REST API with FastAPI.
